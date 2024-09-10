@@ -56,3 +56,9 @@ h1 {
     --accent: #181818;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .cat {
+    max-width: 90vw;
+  }
+}
